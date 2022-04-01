@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GroundUp_Insta2</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="back4app_app_id">NxVn8HN5LcslM1Xjn4NpwU9HqLLpe6XWgkiCBSNf</string>
+    <string name="back4app_client_key">rF8AFf0jGGvGDxwucnYqWfwTKm2JmWodmOQPXJ7b</string>
+    <string name="take_picture">TAKE PICTURE</string>
+    <string name="post">POST</string>
+    <string name="todo">TODO</string>
+</resources>
